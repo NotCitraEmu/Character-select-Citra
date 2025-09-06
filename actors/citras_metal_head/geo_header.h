@@ -1,0 +1,14 @@
+extern const GeoLayout citras_metal_head_Cap_Metal_Switch_opt1[];
+extern const GeoLayout citras_metal_head_Cap_Metal_Switch_opt2[];
+extern const GeoLayout citras_metal_head_Cap_Metal_Switch_opt3[];
+extern const GeoLayout citras_metal_head_geo[];
+extern Lights1 citras_metal_head_Metal__METAL__lights;
+extern u8 citras_metal_head_Metal_Shade_rgba16_rgba16[];
+extern u8 citras_metal_head_Metal_Light_rgba16_rgba16[];
+extern Vtx citras_metal_head_Cap_Metal_mesh_layer_1_vtx_0[344];
+extern Gfx citras_metal_head_Cap_Metal_mesh_layer_1_tri_0[];
+extern Gfx mat_citras_metal_head_Metal__METAL_[];
+extern Gfx mat_revert_citras_metal_head_Metal__METAL_[];
+extern Gfx citras_metal_head_Cap_Metal_mesh_layer_1[];
+extern Gfx citras_metal_head_Cap_Metal_mesh_layer_1_mat_override_Metal__METAL__0[];
+extern Gfx citras_metal_head_material_revert_render_settings[];
